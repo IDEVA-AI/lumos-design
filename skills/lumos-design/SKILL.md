@@ -11,7 +11,7 @@ Use para peças da LUMOS, não como estética genérica para outras marcas. A ha
 
 Identifique objetivo, público, mensagem central, canal, dimensões, formato final/editável e ativos disponíveis. Aproveite o briefing existente; pergunte apenas o que impede uma escolha correta. Escolha técnica e ferramenta pelo entregável. Não force todo pedido a virar imagem raster, HTML ou post.
 
-Leia [marca](references/marca.md) em toda criação. Para escolher e aplicar logos, leia [ativos](references/ativos.md). Consulte [formatos](references/formatos.md) apenas nos meios relevantes. Para textos na peça, leia [voz](references/voz.md). Fontes e conflitos estão em [proveniência](references/proveniencia.md).
+Leia [marca](references/marca.md) em toda criação. Para escolher e aplicar logos, leia [ativos](references/ativos.md). Consulte [formatos](references/formatos.md) apenas nos meios relevantes. Para posts, capas e carrosséis, leia [direção de arte social](references/social.md) e inspecione a imagem de referência antes de compor. Para textos na peça, leia [voz](references/voz.md). Fontes e conflitos estão em [proveniência](references/proveniencia.md).
 
 ## Invariantes
 

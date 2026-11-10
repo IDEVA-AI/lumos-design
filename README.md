@@ -2,7 +2,7 @@
 
 Skill para criar, adaptar e revisar **qualquer peça de design LUMOS**, não apenas Instagram: documentos, impressos, apresentações, sites, interfaces, dashboards, anúncios e audiovisual.
 
-Inclui regras de identidade, guias por formato, quatro logos PNG oficiais, uma prancha vetorial PDF e verificação de integridade. Não inclui fotos, dados de clientes ou credenciais.
+Inclui regras de identidade, guias por formato, quatro logos PNG oficiais, uma prancha vetorial PDF, uma peça social de referência aprovada por Júlio e verificação de integridade. A referência inclui uma cena gerada por IA, sem pessoas. Não inclui fotos reais, dados de clientes ou credenciais.
 
 ## Instalar no Codex
 
@@ -30,6 +30,8 @@ python3 /caminho/para/skills/lumos-design/scripts/validar.py
 O caminho passado é o diretório que conterá `lumos-design`, não a própria pasta da skill. Para atualizar, revise as mudanças e substitua a cópia antiga manualmente após fazer backup.
 
 ## Usar
+
+Posts e carrosséis seguem o acabamento editorial do hero da LUMOS. A skill inclui a referência visual final e o guia `references/social.md`, com luz, profundidade, relação entre headline e texto de apoio e adaptação para carrosséis.
 
 ```text
 Use $lumos-design para criar uma apresentação de 8 slides sobre o serviço informado. Formato 16:9, público de empresários. Use os dados anexados e entregue PPTX editável e PDF.

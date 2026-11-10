@@ -40,5 +40,14 @@
     "modification": "Somente metadados pessoais e XML removidos; conteúdo visual preservado.",
     "source_sha256": "99ce9bfde555f6f303259f7ea36fd362dd7c703f1bab8ba5cd29baa9409a6958",
     "pages": 1
+  },
+  {
+    "path": "references/post-direcao-hero-aprovado.png",
+    "sha256": "b202839606ebe50c2a45ef908f79bc3126a8c1e7294b4c6298f5d6b322a0161d",
+    "bytes": 1430659,
+    "width": 1080,
+    "height": 1350,
+    "source": "Peça final escolhida por Júlio em 2026-11-10 nesta sessão, lumos-post-direcao-hero-v2.png",
+    "role": "Referência visual de direção de arte social; cena gerada por IA sem pessoas, com logo oficial composto depois."
   }
 ]

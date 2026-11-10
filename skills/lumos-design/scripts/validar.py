@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check portable package metadata, internal references and original PNG integrity."""
+"""Check portable package metadata, internal references and asset integrity."""
 import hashlib,json,re,struct,zlib
 from pathlib import Path
 s=Path(__file__).resolve().parents[1]
@@ -38,4 +38,4 @@ for record in json.loads((s/'assets/manifest.json').read_text()):
     assert i==len(data)
 assert len(list((s/'assets/logos').glob('*.png')))==4
 assert not list(s.rglob('*.jpg'))
-print('PASS: plugin metadata, skill frontmatter, references, 4 PNG hashes/dimensions/CRC, vector PDF hash/header; no JPG.')
+print('PASS: metadata, frontmatter, internal references, all manifest hashes/dimensions/CRC, vector PDF header, 4 official logos; no JPG.')

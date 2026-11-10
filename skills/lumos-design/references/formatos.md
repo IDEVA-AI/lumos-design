@@ -15,6 +15,7 @@ Defina proporção e contexto de apresentação. Uma conclusão por slide; títu
 Use tokens semânticos, componentes discretos, poucos indicadores e uma conclusão destacada. Grid responsivo; ordem de leitura e CTA redesenhados no mobile. Verificar teclado, foco visível, estados de erro e contraste efetivo. Gráficos precisam rótulos e não só cor. Em e-mail, considerar suporte do cliente e fallback de fontes; não declarar Cormorant/Inter disponíveis sem testar. Domínio, links, formulário e envio exigem contexto e autorização próprios.
 
 ## Social, anúncios e capas
+Leia [direção de arte social](social.md) e abra a referência visual incluída. Posts e carrosséis devem alcançar o acabamento editorial do hero da LUMOS, com imagem e tipografia pensadas em conjunto.
 Dimensão conforme canal/placement pedido; 1080×1350 e 1080×1920 são exemplos para feed/story, não limite da skill. Proteger zonas de UI, corte e miniatura; uma mensagem dominante. Adaptar composição, não apenas redimensionar. Números e ofertas precisam de fonte.
 
 ## Vídeo e motion
