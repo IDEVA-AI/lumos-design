@@ -1,5 +1,7 @@
 # Motor de Design LUMOS
 
+Para a equipe: [comece aqui com o prompt de instalação e apresentação do ambiente](COMECE-AQUI.md).
+
 Skill para criar, adaptar e revisar **qualquer peça de design LUMOS**, não apenas Instagram: documentos, impressos, apresentações, sites, interfaces, dashboards, anúncios e audiovisual.
 
 Inclui regras de identidade, guias por formato, quatro logos PNG oficiais, uma prancha vetorial PDF, uma peça social de referência aprovada por Júlio e verificação de integridade. A referência inclui uma cena gerada por IA, sem pessoas. Não inclui fotos reais, dados de clientes ou credenciais.
