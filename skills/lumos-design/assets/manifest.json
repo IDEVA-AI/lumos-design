@@ -1,0 +1,44 @@
+[
+  {
+    "path": "logos/lumos-claro.png",
+    "sha256": "3f35f7d41ef5d5447ae947fd1adc939e77116941beea03ba68e145f3b43a5f9b",
+    "bytes": 22287,
+    "width": 820,
+    "height": 254,
+    "source": "Acervo oficial de logos LUMOS"
+  },
+  {
+    "path": "logos/lumos-escuro.png",
+    "sha256": "b80567edddae5b63c4507c82f905af5c49390cf6a6c28f43198792ddf471ef6a",
+    "bytes": 22266,
+    "width": 820,
+    "height": 254,
+    "source": "Acervo oficial de logos LUMOS"
+  },
+  {
+    "path": "logos/isolumos-claro.png",
+    "sha256": "7d3fcb4b406f15b68e583499e8b8975a29eaebacdf7a6c340d89272a796e7d7e",
+    "bytes": 7128,
+    "width": 145,
+    "height": 255,
+    "source": "Acervo oficial de logos LUMOS"
+  },
+  {
+    "path": "logos/isolumos-escuro.png",
+    "sha256": "fb7c3587ca647f3b8031548273802dda940b6aaee06202082177852036a33d5a",
+    "bytes": 7274,
+    "width": 146,
+    "height": 255,
+    "source": "Acervo oficial de logos LUMOS"
+  },
+  {
+    "path": "vectors/lumos-logotipo-vetorial.pdf",
+    "sha256": "02879b06671f60bc35842fe4fe2bb4987d9daa8bd1ebf102776b1206d675ea7a",
+    "bytes": 154937,
+    "format": "pdf",
+    "source": "Lumos - logotipo vetorial.pdf, arquivo oficial fornecido para a marca",
+    "modification": "Somente metadados pessoais e XML removidos; conteúdo visual preservado.",
+    "source_sha256": "99ce9bfde555f6f303259f7ea36fd362dd7c703f1bab8ba5cd29baa9409a6958",
+    "pages": 1
+  }
+]
