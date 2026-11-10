@@ -22,6 +22,16 @@ Não adicionar rótulos como “Gestão financeira”, descritores, avisos visí
 
 Ao gerar uma nova cena, planeje espaço negativo para a headline e o logo. Componha depois a tipografia exata e o PNG oficial. Preserve a cena e os elementos aprovados quando o pedido for apenas ajustar texto ou posicionamento; não regenere o fundo sem necessidade.
 
+## Quando a pessoa enviar uma foto
+
+Use a foto enviada como base quando ela for indicada para a peça. Inspecione o arquivo original, sua resolução, o ponto de interesse e as áreas disponíveis para texto antes de compor. A direção editorial também se aplica a fotografias fornecidas; gerar uma nova cena não é pré-requisito.
+
+Ajuste o enquadramento e, quando necessário, a saturação e a exposição para integrar a foto à marca. Preserve rostos, pessoas, produtos e contexto da imagem. Não substitua a foto nem recrie pessoas por IA sem pedido específico. Se o corte comprometer o assunto, reorganize o texto ou use uma área de apoio.
+
+Aplique sobreposição escura em tom coerente com #273539, preferencialmente em gradiente ou de forma localizada atrás da headline, do apoio e do logo. Ajuste a intensidade conforme a luz da foto e meça o contraste no resultado: 4,5:1 para texto normal e 3:1 para texto grande. Não aplicar uma opacidade fixa a toda foto nem escurecer até perder o assunto. Mantenha textura, profundidade e pontos de luz visíveis.
+
+Componha os textos e o logo oficial separadamente. Sobre área escura, use a versão sage; em área clara estável, use a versão escura. A foto enviada pode servir ao carrossel inteiro com enquadramentos variados, sem deformar nem espelhar o conteúdo por hábito. Se o arquivo não tiver qualidade ou espaço para a aplicação pedida, indique o limite e peça outra foto apenas quando necessário.
+
 ## Carrosséis
 
 A capa deve alcançar a presença visual da referência. Desenvolva as páginas seguintes com ritmo editorial e continuidade de paleta, tipografia e tratamento de imagem. Não replique um hero inteiro em cada slide: páginas de explicação podem usar texto, diagramas ou dados documentados quando isso ajudar a leitura. Distribua o conteúdo em vez de comprimir o corpo; fotografia em todas as páginas não é requisito. CTA só quando o objetivo e o briefing o justificarem.
