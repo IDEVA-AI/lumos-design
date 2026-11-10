@@ -4,6 +4,12 @@ Skill para criar, adaptar e revisar **qualquer peça de design LUMOS**, não ape
 
 Inclui regras de identidade, guias por formato, quatro logos PNG oficiais, uma prancha vetorial PDF, uma peça social de referência aprovada por Júlio e verificação de integridade. A referência inclui uma cena gerada por IA, sem pessoas. Não inclui fotos reais, dados de clientes ou credenciais.
 
+## Cérebro público da LUMOS
+
+A skill inclui uma [base revisada de marca e conteúdo](skills/lumos-design/references/cerebro/indice.md): identidade, voz, serviços documentados, territórios editoriais e públicos. O recorte de dentistas permanece identificado como hipótese. A base distingue posicionamento de entrega comprovada e orienta o que precisa ser confirmado antes de virar afirmação pública.
+
+Esta é a edição pública autorizada por Júlio. O cofre privado, as reuniões, os diagnósticos internos, as condições comerciais e os acessos não foram incorporados. Os arquivos da base ficam dentro da skill e acompanham a instalação.
+
 ## Instalar no Codex
 
 No Codex, peça ao instalador de skills:

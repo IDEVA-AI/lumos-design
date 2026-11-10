@@ -7,6 +7,9 @@ O pacote é autocontido: quatro PNG oficiais, uma prancha PDF vetorial e uma pe�
 ## Direção social aprovada em 2026-11-10
 Júlio pediu que posts e carrosséis sigam o nível de direção de arte dos heroes da LUMOS. Após quatro propostas apenas tipográficas, aprovou a direção fotográfica e pediu os ajustes da peça incluída em assets/references/post-direcao-hero-aprovado.png: retirar “Gestão financeira” e “Cena ilustrativa” da arte e aproximar o texto de apoio da headline. Em seguida, determinou que essa última versão fosse a referência da skill. A cena foi gerada por IA, sem pessoas; não é registro do escritório real. A referência orienta acabamento e composição, sem aprovar oferta, campanha ou publicação.
 
+## Base pública de marca e conteúdo
+Em 2026-11-10, Júlio autorizou incorporar apenas a base de marca e conteúdo revisada para uso público. O [cérebro público](cerebro/indice.md) registra identidade, públicos, territórios e limites de afirmação. A edição preserva as hipóteses do ICP e não inclui o cofre completo. As [fontes](cerebro/fontes.md) registram as versões consultadas sem depender de acesso privado para usar a skill.
+
 ## Conflitos preservados
 - Proporção 55/30/15/5 soma 105. Não corrigir silenciosamente nem fingir que é divisão exata de áreas.
 - Guia antigo proibia todo verde como tinta; guia atual admite microdestaques sobre escuro, mas não texto corrido nem verde sobre claro. Tinta do logo segue restrita pela fundação.
